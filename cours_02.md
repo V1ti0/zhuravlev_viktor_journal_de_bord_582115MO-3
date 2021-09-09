@@ -6,8 +6,6 @@ https://www.adobe.com/
 
 Premièrement, j'ai choisi le site web officiel de Adobe, cette compagnie offre des différents outils pour éditer des photos comme Photoshop, éditions des vidéos et beaucoup plus. Je crois qu'ils offrent les meilleurs programmes dans le domaine du multimédia avec beaucoup de utilité et en fait la plupart des professionnels les utilisent. Ils m'aideront sûrement avec ma carrière car je vais utiliser ces programmes la plupart du temps quand je vais travailler. 
 
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
-
 ### Lien 2 
 https://www.image-line.com/
 
