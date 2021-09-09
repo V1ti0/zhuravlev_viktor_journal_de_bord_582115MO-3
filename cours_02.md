@@ -2,13 +2,21 @@
 ## Présentation des liens
 
 ### Lien 1 
+https://www.adobe.com/
+
+Premièrement, j'ai choisi le site web officiel de Adobe, cette compagnie offre des différents outils pour éditer des photos comme Photoshop, éditions des vidéos et beaucoup plus. Je crois qu'ils offrent les meilleurs programmes dans le domaine du multimédia avec beaucoup de utilité et en fait la plupart des professionnels les utilisent. Ils m'aideront sûrement avec ma carrière car je vais utiliser ces programmes la plupart du temps quand je vais travailler. 
+
 Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
 
 ### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+https://www.image-line.com/
+
+Ce lien mène sur le site web de Fl Studio 20. C'est un programme pour faire de la musique et d'autres choses reliées aux sons. Selon, moi ce programme est facile à utiliser et je crois qu'il y a plus d'utilité qu'en Ableton ou en Logic pro X. Le fait que je connais comment l'utiliser est un plus pour mon portfolio, je peux aussi accompagner mes travaux avec du son et ne pas me préoccuper pour le copyright. 
 
 ### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://www.behance.net/
+
+Ce site web est le plus grand réseau créatif au monde pour présenter et découvrir le travail créatif. C'est l'une des meilleures places pour s'inspirer des travails des autres artistes. Il y a des piéces d'art de tout type. Cela peut m'aider plutard si je n'aurai aucune ideé dans la tête. 
 
 ### Lien 4 
 Expliquer pourquoi vous avez choisi ce lien. 
