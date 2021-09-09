@@ -25,7 +25,4 @@ Ce site web contient un design unique mais simple à utuliser. En plus ce site a
 ### Lien 5 
 https://www.blender.org/
 
-Blender c'est un programme gratuit pour faire des animations 3D et 2D. Je trouve qu'il offre beaucoup de possibilités pourtant être gratuit.  
-
-## Publication sur Teams
-Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
+Blender c'est un programme gratuit pour faire des animations 3D et 2D. Je trouve qu'il offre beaucoup de possibilités pourtant être gratuit. Ce programme est bon pour ceux qui veulent commencer en 3D mais ne sont pas prêts pour acheter Maya.
