@@ -24,7 +24,8 @@ Ce site web contient un design unique mais simple à utuliser. En plus ce site a
 
 
 ### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien.  
+
+
 
 ## Publication sur Teams
 Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
